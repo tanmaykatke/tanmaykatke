@@ -1,15 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Tanmay
 
-<!--
-**tanmaykatke/tanmaykatke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For the past year I've focused on building full-stack systems that integrate agentic AI and LLMs. You can find my projects in my GitHub repos. I recently won a hackathon at SBU Hacks 2026. 🏆
 
-Here are some ideas to get you started:
-For the past one year I have focused on building full-stack systems integrated in Agentic AI & LLMs. I have built multiple projects listed on my github repos. I recently won a Hackathon at SBU Hacks 2026.  
-- 🔭 I’m currently working on Open Intelligence and Agentic AI
-- 🌱 I’m currently learning Machine Learning by reading Hand on Machine Learning: Pytorch Version 4(Geron)
-- 👯 I’m looking to collaborate on research papers and opensource contributions and hackathons
-- 💬 Ask me about my projects, on how I built them, their purpose.
-- 📫 How to reach me: reachme at my email: katketanmay2102@gmail.com
+- 🔭 I'm currently working on Open Intelligence and agentic AI
+- 🌱 I'm currently learning machine learning by reading *Hands-On Machine Learning (PyTorch edition)* by Aurélien Géron
+- 👯 I'm looking to collaborate on research papers, open-source contributions, and hackathons
+- 💬 Ask me about my projects: how I built them and what they're for
+- 📫 How to reach me: [tanmaypkatke@gmail.com](mailto:tanmaypkatke@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play guitar and video games in my leisure time.
--->
+- ⚡ Fun fact: I love playing guitar and video games in my free time
